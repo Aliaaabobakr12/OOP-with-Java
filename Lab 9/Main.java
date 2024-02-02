@@ -5,6 +5,11 @@
  * Lab 9
  */
 
+/*
+This program demonstrates OOP concepts, including class and object modeling, encapsulation, 
+inheritance, polymorphism, association, composition, method overriding, constructor usage.
+*/
+
 import java.util.Date;
 
 public class Main {
