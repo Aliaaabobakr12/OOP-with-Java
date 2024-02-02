@@ -5,6 +5,12 @@
  * Assignment 7
  */
 
+/* 
+This Program demonstrates OOP concepts including class and object creation, inheritance, 
+abstraction with virtual methods, polymorphism through method overriding, encapsulation 
+with protected data members, and constructor usage for initializing base and derived classes.
+*/
+
 public class Main {
     public static void main(String[] args) {
         Freshman freshman = new Freshman(120210155, "Asmaa Abobakr", 18, "Burg Alarab", "01155653256");
