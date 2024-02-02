@@ -5,6 +5,8 @@ CSE 3
 Lab 10
 */
 
+// Complete program on GUI & OOP in Java
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
