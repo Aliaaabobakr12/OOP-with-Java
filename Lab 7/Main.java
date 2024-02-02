@@ -5,6 +5,8 @@
  * Lab 7
  */
 
+// Inheritance in OOP
+
 public class Main {
     public static void main(String[] args) {
         Point point = new Point(3, 5);
