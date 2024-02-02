@@ -5,6 +5,8 @@
  * Lab 6
  */
 
+// Setters and getters, get a copy of class in another class and make copy of class.
+
  public class Person {
     private String name, mName, lName;
     Person(String name, String mName, String lName) {
