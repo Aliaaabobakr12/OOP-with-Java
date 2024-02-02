@@ -4,7 +4,7 @@ Aliaa Abobaakr Elshiekh
 CSE 3
 */
 
-// This sheet is intro to object oriented programming in java.
+// Program on intro to object oriented programming in java.
 
 /*
 Q1:
